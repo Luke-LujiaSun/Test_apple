@@ -1,3 +1,3 @@
-# Test_apple 1
+# Test_apple
 
 Test for the local clone function
